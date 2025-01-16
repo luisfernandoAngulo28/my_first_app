@@ -1,0 +1,13 @@
+# Archivos y directorios generados por Dart y Flutter
+.dart_tool/
+.build/
+pubspec.lock  # Excepto para paquetes de aplicaciones
+
+# Archivos de configuración de entornos de desarrollo
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Archivos específicos de macOS
+.DS_Store
