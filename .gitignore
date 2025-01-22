@@ -1,6 +1,6 @@
 # Archivos y directorios generados por Dart y Flutter
 .dart_tool/
-.build/
+build/  # Corregido para ignorar la carpeta build de Flutter
 pubspec.lock  # Excepto para paquetes de aplicaciones
 
 # Archivos de configuración de entornos de desarrollo
@@ -11,3 +11,12 @@ pubspec.lock  # Excepto para paquetes de aplicaciones
 
 # Archivos específicos de macOS
 .DS_Store
+
+# Otros archivos generados por Flutter
+*.apk
+*.jar
+*.bin
+*.dill
+*.cache
+*.track
+*.sha1
