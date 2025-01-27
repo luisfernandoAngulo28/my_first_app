@@ -1,0 +1,28 @@
+com.example.my_first_app-main-0 C:\Progamas Movil\my_first_app\android\app\src\main\res
+com.example.my_first_app-release-1 C:\Progamas Movil\my_first_app\android\app\src\release\res
+com.example.my_first_app-pngs-2 C:\Progamas Movil\my_first_app\build\app\generated\res\pngs\release
+com.example.my_first_app-resValues-3 C:\Progamas Movil\my_first_app\build\app\generated\res\resValues\release
+com.example.my_first_app-rs-4 C:\Progamas Movil\my_first_app\build\app\generated\res\rs\release
+com.example.my_first_app-mergeReleaseResources-5 C:\Progamas Movil\my_first_app\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.my_first_app-mergeReleaseResources-6 C:\Progamas Movil\my_first_app\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.my_first_app-merged_res-7 C:\Progamas Movil\my_first_app\build\app\intermediates\merged_res\release
+com.example.my_first_app-lifecycle-livedata-2.7.0-8 C:\Users\ferna\.gradle\caches\transforms-3\01b5e72ee9d4e23df5cdf64a90666ab4\transformed\lifecycle-livedata-2.7.0\res
+com.example.my_first_app-jetified-core-1.0.0-9 C:\Users\ferna\.gradle\caches\transforms-3\17bc2812af182202174b5a13df7c0138\transformed\jetified-core-1.0.0\res
+com.example.my_first_app-jetified-lifecycle-livedata-core-ktx-2.7.0-10 C:\Users\ferna\.gradle\caches\transforms-3\292ee2e9b42456dc14584aa0291bd310\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.my_first_app-jetified-annotation-experimental-1.4.0-11 C:\Users\ferna\.gradle\caches\transforms-3\34eab633d78a2642bf3409735bd6b0e3\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.my_first_app-lifecycle-runtime-2.7.0-12 C:\Users\ferna\.gradle\caches\transforms-3\498f4669110677fb6cf227fedc48e680\transformed\lifecycle-runtime-2.7.0\res
+com.example.my_first_app-lifecycle-viewmodel-2.7.0-13 C:\Users\ferna\.gradle\caches\transforms-3\4c5efea280f538afe29182efb387e5ef\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.my_first_app-jetified-tracing-1.2.0-14 C:\Users\ferna\.gradle\caches\transforms-3\70dd82524f888395bf4fff9e0cb6d409\transformed\jetified-tracing-1.2.0\res
+com.example.my_first_app-core-runtime-2.2.0-15 C:\Users\ferna\.gradle\caches\transforms-3\788f11579c6489c8f9b93145b7c35426\transformed\core-runtime-2.2.0\res
+com.example.my_first_app-jetified-window-java-1.2.0-16 C:\Users\ferna\.gradle\caches\transforms-3\828e0d27c51888072e28ca12c1ea1c36\transformed\jetified-window-java-1.2.0\res
+com.example.my_first_app-jetified-core-ktx-1.13.1-17 C:\Users\ferna\.gradle\caches\transforms-3\8681af58fd0a120e20b94de5416264e7\transformed\jetified-core-ktx-1.13.1\res
+com.example.my_first_app-fragment-1.7.1-18 C:\Users\ferna\.gradle\caches\transforms-3\943da28212f87ae71cabfe1e43e1ab41\transformed\fragment-1.7.1\res
+com.example.my_first_app-jetified-startup-runtime-1.1.1-19 C:\Users\ferna\.gradle\caches\transforms-3\9d266227042194c26c5a7034901e9091\transformed\jetified-startup-runtime-1.1.1\res
+com.example.my_first_app-jetified-savedstate-1.2.1-20 C:\Users\ferna\.gradle\caches\transforms-3\a5288bbf2c9460b01a16a5824059e43f\transformed\jetified-savedstate-1.2.1\res
+com.example.my_first_app-jetified-lifecycle-process-2.7.0-21 C:\Users\ferna\.gradle\caches\transforms-3\a5da68da96a5e4dec815852f87339f62\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.my_first_app-jetified-lifecycle-viewmodel-savedstate-2.7.0-22 C:\Users\ferna\.gradle\caches\transforms-3\ba8b550b79f90bbe46f1bb0567310eda\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.my_first_app-jetified-activity-1.8.1-23 C:\Users\ferna\.gradle\caches\transforms-3\bc930b1d58c2e009c6db3c2bad0c4a9a\transformed\jetified-activity-1.8.1\res
+com.example.my_first_app-core-1.13.1-24 C:\Users\ferna\.gradle\caches\transforms-3\e7fe094eee41226953053e3792eb5ca7\transformed\core-1.13.1\res
+com.example.my_first_app-jetified-window-1.2.0-25 C:\Users\ferna\.gradle\caches\transforms-3\e896e0c1b8d48987f6bbac60c177ba2d\transformed\jetified-window-1.2.0\res
+com.example.my_first_app-lifecycle-livedata-core-2.7.0-26 C:\Users\ferna\.gradle\caches\transforms-3\ee1d2ac320de9a4f3d91483a94163258\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.my_first_app-jetified-profileinstaller-1.3.1-27 C:\Users\ferna\.gradle\caches\transforms-3\fddbf749c1c6941b803882d84001c877\transformed\jetified-profileinstaller-1.3.1\res

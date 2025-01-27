@@ -1,7 +1,10 @@
 
 import 'package:flutter/cupertino.dart'; // Importa el paquete Cupertino de Flutter para widgets de estilo iOS.
 import 'package:flutter/material.dart';
+import 'package:my_first_app/Common/MyKeys.dart';
+import 'package:my_first_app/Model/Sound.dart';
 import 'package:my_first_app/Pages/NowPlayingPage.dart';
+import 'package:my_first_app/Widgets/ListViewAndGridView/Actividad/PlayListView.dart';
 import 'package:my_first_app/Widgets/ListViewAndGridView/Items/MyCard.dart';
 import 'package:my_first_app/Widgets/ListViewAndGridView/Items/MyContainer.dart';
 import 'package:my_first_app/Widgets/ListViewAndGridView/Items/MyListTile.dart';
@@ -25,10 +28,14 @@ class PlaylistpageState extends State<PlayListPage>{
     // Scaffold proporciona una estructura de diseño para la página,
     // con soporte para barra superior, cuerpo, etc.
    return Scaffold(
+    /* floatingActionButton: FloatingActionButton(
+         onPressed: ()=>myListViewKey.currentState?.add(Sound(title: "Rescate",author: "Daddy Yankee")),
+         child: Icon(Icons.add),    
+     ),*/
      //El cuerpo de la página
      body:SafeArea(
        // SafeArea asegura que el contenido no se superponga con los elementos del sistema, como la barra de estado.
-          child: MyListView(),
+          child: PlayListView(),
           /*ElevatedButton(
             child: Text("NowPlayingPage"),// Texto que se muestra dentro del botón.
             onPressed: ()=>{

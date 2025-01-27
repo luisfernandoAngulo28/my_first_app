@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'PlayerButton.dart';
 
 class PlayingNow extends StatelessWidget {
-  //Sound sound;
+ // Sound sound;
  // PlayingNow(this.sound);
   @override
   Widget build(BuildContext context) {
