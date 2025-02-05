@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:my_first_app/Common/MyKeys.dart';
 import 'package:my_first_app/Model/Sound.dart';
 import 'package:my_first_app/Pages/NowPlayingPage.dart';
+import 'package:my_first_app/Widgets/Form/MyCheckBox.dart';
 import 'package:my_first_app/Widgets/ListViewAndGridView/Actividad/PlayListView.dart';
 import 'package:my_first_app/Widgets/ListViewAndGridView/Items/MyCard.dart';
 import 'package:my_first_app/Widgets/ListViewAndGridView/Items/MyContainer.dart';
@@ -35,7 +36,7 @@ class PlaylistpageState extends State<PlayListPage>{
      //El cuerpo de la página
      body:SafeArea(
        // SafeArea asegura que el contenido no se superponga con los elementos del sistema, como la barra de estado.
-          child: PlayListView(),
+          child:PlayListView() ,
           /*ElevatedButton(
             child: Text("NowPlayingPage"),// Texto que se muestra dentro del botón.
             onPressed: ()=>{

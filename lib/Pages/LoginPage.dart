@@ -4,7 +4,16 @@ import 'package:flutter/material.dart';
 import 'package:my_first_app/Common/HomeArguments.dart';
 import 'package:my_first_app/Common/MyRouters.dart';
 import 'package:my_first_app/Pages/MyHomePage.dart';
-import 'package:my_first_app/Widgets/Basicos/MyText.dart'; // Importa el paquete Material de Flutter para widgets de estilo Material Design.
+import 'package:my_first_app/Widgets/Basicos/MyText.dart';
+import 'package:my_first_app/Widgets/Form/Actividad/LoginForm.dart';
+import 'package:my_first_app/Widgets/Form/MyCheckBox.dart';
+import 'package:my_first_app/Widgets/Form/MyDatePicker.dart';
+import 'package:my_first_app/Widgets/Form/MyDropdownButton.dart';
+import 'package:my_first_app/Widgets/Form/MyForm.dart';
+import 'package:my_first_app/Widgets/Form/MyFormF.dart';
+import 'package:my_first_app/Widgets/Form/MyRadio.dart';
+import 'package:my_first_app/Widgets/Form/MySwitch.dart';
+import 'package:my_first_app/Widgets/Form/MyTextField.dart'; // Importa el paquete Material de Flutter para widgets de estilo Material Design.
 
 // Define la clase principal PlayListPage que extiende StatefulWidget,
 // permitiendo que tenga un estado mutable.
@@ -23,19 +32,20 @@ class LoginPageState extends State<LoginPage>{
     // Scaffold proporciona una estructura de diseño para la página,
     // con soporte para barra superior, cuerpo, etc.
     return Scaffold(
-        backgroundColor: Colors.lightBlueAccent.shade200,
+       // backgroundColor: Colors.lightBlueAccent.shade200,
       //El cuerpo de la página
       body:SafeArea(
 
         // SafeArea asegura que el contenido no se superponga con los elementos del sistema, como la barra de estado.
-        child: ElevatedButton(
+        child: LoginForm()
+      /*  ElevatedButton(
           child: Text("MyHomePage"),// Texto que se muestra dentro del botón.
           onPressed: ()=>{
             // Aquí puedes añadir la lógica de navegación para ir a NowPlayingPage.
           //  Navigator.push(context, MaterialPageRoute(builder: (context)=>MyHomePage()))
             Navigator.pushNamed(context, ROUTER_HOME,arguments:HomeArguments("Inicioo","Hola Mundoo"))
           },
-        ),
+        ),*/
       ) ,
     );
   }
