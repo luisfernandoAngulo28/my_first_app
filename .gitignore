@@ -20,3 +20,4 @@ pubspec.lock  # Excepto para paquetes de aplicaciones
 *.cache
 *.track
 *.sha1build/
+build/

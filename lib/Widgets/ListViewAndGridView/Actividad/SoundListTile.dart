@@ -27,7 +27,7 @@ class SoundListTile extends StatelessWidget {
         Icons.play_circle_fill,
       )),
       onTap: () {
-        Navigator.pushNamed(context, ROUTER_NOW_PLAYING,arguments: sound);
+        Navigator.pushNamed(context, ROUTE_NOW_PLAYING,arguments: sound);
       },
       onLongPress: () {
         print("ListTile onLongPress");

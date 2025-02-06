@@ -28,14 +28,14 @@ class PlayListViewState extends State<PlayListView> {
   Widget build(BuildContext context) {
     // TODO: implement build
     return Container(
-      color: Color(0xFF1282A2), // Color de fondo
+      //color: Color(0xFF1282A2), // Color de fondo
       child: SingleChildScrollView(
           padding: EdgeInsets.symmetric(horizontal: 15),
           child: Column(
             children: [
               SizedBox(
-                  //height: coverHeight,
-                  height: 300,
+                  height: coverHeight,
+                  //height: 300,
                   child: ListView.builder(
                       scrollDirection: Axis.horizontal,
                       //  physics: NeverScrollableScrollPhysics(),
